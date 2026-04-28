@@ -1,0 +1,43 @@
+class ApiKeyConstants {
+  static const String token = 'token';
+  static const String title = 'title';
+  static const String type = 'type';
+  static const String mobile = 'mobile';
+  static const String countryCode = 'country_code';
+  static const String otp = 'otp';
+  static const String error = 'error';
+  static const String message = 'message';
+  static const String userId = 'user_id';
+  static const String otherUserId = 'other_user_id';
+  static const String userName = 'user_name';
+  static const String email = 'email';
+  static const String name = 'name';
+  static const String categoryId = 'category_id';
+  static const String mentorId = 'mentor_id';
+  static const String status = 'status';
+  static const String currentPassword = 'current_password';
+  static const String password = 'password';
+  static const String fullName = 'full_name';
+  static const String country = 'country';
+  static const String lat = 'lat';
+  static const String lon = 'lon';
+  static const String registerId = 'register_id';
+  static const String about = 'about';
+  static const String lang = 'lang';
+  static const String profession = 'profession';
+  static const String exp = 'exp';
+  static const String professionLocation = 'profession_location';
+  static const String currentPosition = 'current_position';
+  static const String dob = 'dob';
+  static const String gender = 'gender';
+  static const String messageRate = 'message_rate';
+  static const String audioRate = 'audio_rate';
+  static const String videoRate = 'video_rate';
+  static const String socialMediaUrl = 'social_media_url';
+  static const String appointmentId = 'appointment_id';
+  static const String packageType = 'package_type';
+  static const String appointment_date = 'appointment_date';
+  static const String time = 'time';
+  static const String channelName = 'channel_name';
+
+}
